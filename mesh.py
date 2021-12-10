@@ -1,5 +1,10 @@
 # Mesh model
-
+"""
+CPSC 5520, Seattle University
+This is free and unencumbered software released into the public domain.
+:Authors: Altanai Bisht
+:Version: f1-01
+"""
 import csv
 import socket
 import sys

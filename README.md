@@ -294,16 +294,20 @@ Note : this implementation doesnt handle VOTE-REQ properly. Is that msg is seen 
 [2] State machine replication [Lamport 1978; Schneider 1990]
 CodeSample: whong92/timestampSim.py https://gist.github.com/whong92/d0df440fbad880bc0221488eeedbb89f
 
-[3] Raft Consensus Algorithm  https://raft.github.io/
-
-[4] Center of Expertise for Energy Efficiency in Data Centers at the US Department of Energy’s Lawrence Berkeley National Laboratory in Berkeley, California. https://datacenters.lbl.gov/
-
-[5] Paxos - Leslie Lamport [1998] [Lampson, 1996; Prisco et al., 1997;Lamport, 2001; van Renesse and Altinbuken, 2015]
-
-[6] B. Mann and A. Arvavid, "Message complexity of distributed algorithms revisited," 2014 International Conference on Parallel, Distributed and Grid Computing, 2014, pp. 417-422, doi: 10.1109/PDGC.2014.7030782. https://ieeexplore.ieee.org/document/7030782
-
-[7] Computer Science and Engineering articles 
+[3] Computer Science and Engineering articles 
 Arunachalam, A., Sornil, O. (2015) Issues of Implementing Random Walk and Gossip Based Resource Discovery Protocols in P2P MANETs & Suggestions for Improvement In: Procedia Computer Science (pp. 509-518). https://www.diva-portal.org/smash/get/diva2:1429063/FULLTEXT01.pdf
 
-[8]three phase commit - https://www.cs.virginia.edu/~cr4bd/4414/S2020/twophase.html
+[4]three phase commit - https://www.cs.virginia.edu/~cr4bd/4414/S2020/twophase.html
 - Code adapted heavily form https://github.com/dkmiller/3PC. (unlicensed Code )
+
+[5] Raft Consensus Algorithm  https://raft.github.io/
+
+[6] Center of Expertise for Energy Efficiency in Data Centers at the US Department of Energy’s Lawrence Berkeley National Laboratory in Berkeley, California. https://datacenters.lbl.gov/
+
+[7] Paxos - Leslie Lamport [1998] [Lampson, 1996; Prisco et al., 1997;Lamport, 2001; van Renesse and Altinbuken, 2015]
+
+[8] B. Mann and A. Arvavid, "Message complexity of distributed algorithms revisited," 2014 International Conference on Parallel, Distributed and Grid Computing, 2014, pp. 417-422, doi: 10.1109/PDGC.2014.7030782. https://ieeexplore.ieee.org/document/7030782
+
+[9] Lamport -https://gist.github.com/whong92/d0df440fbad880bc0221488eeedbb89f
+
+[10] Lectures and course  material from CPSC 5520, Seattle University by professor Kevin Lundeen

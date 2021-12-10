@@ -1,4 +1,5 @@
 """
+Lamport Sync
 Adapted for counting messages  from whong92/timestampSim.py https://gist.github.com/whong92/d0df440fbad880bc0221488eeedbb89f
 """
 import csv
