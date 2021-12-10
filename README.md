@@ -259,9 +259,6 @@ output:
       starting re-election
       send_many  called by range(0, 4)
 
-- https://www.cs.virginia.edu/~cr4bd/4414/S2020/twophase.html
-- Code adapted heavily form https://github.com/dkmiller/3PC. (unlicensed Code )
-
 **3 PC**
 
 A collection of processes, with 'internal ids' ranging from 0 to N-1, where N is the total number of 'backend'
@@ -307,3 +304,6 @@ CodeSample: whong92/timestampSim.py https://gist.github.com/whong92/d0df440fbad8
 
 [7] Computer Science and Engineering articles 
 Arunachalam, A., Sornil, O. (2015) Issues of Implementing Random Walk and Gossip Based Resource Discovery Protocols in P2P MANETs & Suggestions for Improvement In: Procedia Computer Science (pp. 509-518). https://www.diva-portal.org/smash/get/diva2:1429063/FULLTEXT01.pdf
+
+[8]three phase commit - https://www.cs.virginia.edu/~cr4bd/4414/S2020/twophase.html
+- Code adapted heavily form https://github.com/dkmiller/3PC. (unlicensed Code )

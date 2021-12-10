@@ -1,3 +1,6 @@
+#Three Phase Commit
+# Code adapted heavily form https://github.com/dkmiller/3PC. (unlicensed Code )
+
 import json
 import threading
 
