@@ -297,8 +297,8 @@ CodeSample: whong92/timestampSim.py https://gist.github.com/whong92/d0df440fbad8
 [3] Computer Science and Engineering articles 
 Arunachalam, A., Sornil, O. (2015) Issues of Implementing Random Walk and Gossip Based Resource Discovery Protocols in P2P MANETs & Suggestions for Improvement In: Procedia Computer Science (pp. 509-518). https://www.diva-portal.org/smash/get/diva2:1429063/FULLTEXT01.pdf
 
-[4]three phase commit - https://www.cs.virginia.edu/~cr4bd/4414/S2020/twophase.html
-- Code adapted heavily form https://github.com/dkmiller/3PC. (unlicensed Code )
+[4]three phase commit - https://www.cs.virginia.edu/~cr4bd/4414/S2020/twophase.html and 
+Code adapted heavily form https://github.com/dkmiller/3PC. (unlicensed Code )
 
 [5] Raft Consensus Algorithm  https://raft.github.io/
 
