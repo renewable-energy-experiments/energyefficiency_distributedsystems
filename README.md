@@ -286,9 +286,9 @@ Note : this implementation doesnt handle VOTE-REQ properly. Is that msg is seen 
 
 ## Output
 
-![o1](Screenshot from 2021-12-10 00-01-43.png)
+![o1](output_part1.png)
 
-![o2](Screenshot from 2021-12-10 00-01-57.png)
+![o2](output_part2.png)
 
 **References**
 
