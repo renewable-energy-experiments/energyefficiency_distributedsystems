@@ -1,0 +1,7 @@
+finished usecase, read results from file
+['algorithm', 'network_message']
+['2', 'centralized']
+['99', 'distributed']
+['1000', 'mesh']
+['4000', 'three_phase_commit']
+['5441', 'lamport']
